@@ -10,4 +10,8 @@ ifconfig_vtnet0_name="em0"
 ifconfig_vtnet1_name="em1"
 ifconfig_vtnet2_name="em2"
 ifconfig_vtnet3_name="em3"
+sendmail_enable="NO"
+sendmail_submit_enable="NO"
+sendmail_outbound_enable="NO"
+sendmail_msp_queue_enable="NO"
 EOF
